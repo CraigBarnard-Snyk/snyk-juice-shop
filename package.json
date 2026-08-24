@@ -19,7 +19,7 @@
     "capture the flag",
     "awareness"
   ],
-  "homepage": "https://owasp-juice.shop",
+  "homepage": "https://owasp-juice.shop", 
   "bugs": {
     "url": "https://github.com/bkimminich/juice-shop/issues"
   },
